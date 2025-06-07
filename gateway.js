@@ -1,4 +1,4 @@
-// gateway.js
+// gateway.js - API Gateway for Ferremas e-commerce platform
 import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
